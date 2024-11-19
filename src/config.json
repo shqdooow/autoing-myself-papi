@@ -7,7 +7,7 @@
     "clusters": 1,
     "saveFingerprint": {
         "mobile": true,
-        "desktop": false
+        "desktop": true
     },
     "workers": {
         "doDailySet": true,
